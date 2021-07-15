@@ -3799,18 +3799,6 @@ var __tObject;
 
 __tObject = null;
 
-(function() {  // ■ END DevExt.coffee
-  //---------------------------------------------------------------------------
-  var _ALIAS_AA_SBPC_432442;
-  _ALIAS_AA_SBPC_432442 = Scene_Boot.prototype.create;
-  Scene_Boot.prototype.create = function() {
-    _ALIAS_AA_SBPC_432442.call(this);
-    //?[TEST]
-    InfoPrinter.p('<font color="green">The game uses Alpha ABS Basic</font><br>Not for Commercial projects<font size="2"></font>');
-    return setTimeout(InfoPrinter.clear, 4000);
-  };
-})();
-
 // * EXTENSION ERROR LOG
 (function(){
     
