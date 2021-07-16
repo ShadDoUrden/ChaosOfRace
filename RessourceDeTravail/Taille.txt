@@ -1,0 +1,5 @@
+Nain : 110% largeur 78%  hauteur
+Elf :   80% largeur 110% hauteur 
+Kamael : 80% largeur 130% hauteur
+Orc : 130% largeur 110% hauteur
+                                                            
