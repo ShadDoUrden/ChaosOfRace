@@ -2,5 +2,5 @@
 null,
 {"id":1,"battlerName":"Perso_Humain_Alexandre_Colomb_sv","characterIndex":0,"characterName":"Perso_Humain_Alexandre_Colomb","classId":1,"equips":[1,1,2,3,0],"faceIndex":3,"faceName":"Perso_Humain_Alexandre_Colomb_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Alexandre Colomb","nickname":"","note":"","profile":""},
 {"id":2,"battlerName":"","characterIndex":5,"characterName":"Decor_Feu3","classId":1,"equips":[1,0,0,0,0],"faceIndex":1,"faceName":"","traits":[],"initialLevel":1,"maxLevel":99,"name":"Esprit","nickname":"","note":"","profile":""},
-{"id":3,"battlerName":"Perso_Nain_Olaf_sv","characterIndex":0,"characterName":"Perso_Nain_Olaf","classId":1,"equips":[0,0,0,0,0],"faceIndex":6,"faceName":"Perso_Nain_Olaf_faces","traits":[],"initialLevel":1,"maxLevel":99,"name":"Olaf","nickname":"","note":"","profile":""}
+{"id":3,"battlerName":"Perso_Nain_Generique","characterIndex":0,"characterName":"Perso_Nain_Generique","classId":1,"equips":[0,0,0,0,0],"faceIndex":0,"faceName":"PERSO_GENERIQUE","traits":[],"initialLevel":1,"maxLevel":99,"name":"Olaf","nickname":"","note":"","profile":""}
 ]
